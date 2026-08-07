@@ -1,6 +1,6 @@
 body{
-    background-color: blueviolet;
-    color: aqua;
+    background-color: rgb(242, 239, 245);
+    color: rgb(0, 3, 3);
     font-family: Arial, sans-serif;
 }
 
@@ -16,7 +16,7 @@ h1{
 }
 
 h2{
-    color: brown;
+    color: rgb(27, 13, 226), 0, 0);
 }
 
 p{
