@@ -32,7 +32,7 @@ margin-top: 20px;
 nav a {
 color: white;
 text-decoration: none;
-background-color: #9b4d83;
+background-color: #6d0a17;
 padding: 10px 15px;
 border-radius: 8px;
 margin: 5px;
@@ -40,7 +40,7 @@ display: inline-block;
 }
 
 nav a:hover {
-background-color: #c77dff;
+background-color: #6d0a17;
 }
 
 main {
