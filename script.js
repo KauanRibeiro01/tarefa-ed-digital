@@ -7,6 +7,10 @@ const contador = botaoCurtir.querySelector("span");
 if(curtiu === false){
 contador.textContent++;
 curtiu = true;
+} else{
+    contador.textContent--;
+    curtiu = false;
+
 
 
 
