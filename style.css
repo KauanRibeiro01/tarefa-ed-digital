@@ -7,7 +7,7 @@ body{
 
 header{
     background-color: rgb(172, 21, 41);
-    color: bisque;
+    color: rgb(255, 228, 196);
     text-align: center;
     padding: 30px;
 }
@@ -17,7 +17,7 @@ h1{
 }
 
 h2{
-    color: rgb(27, 13, 226);
+    color: rgb(255, 228, 196);
 }
 
 p{
