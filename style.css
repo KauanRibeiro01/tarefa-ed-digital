@@ -17,7 +17,7 @@
     --cor-texto: #f5f5f5;
     --cor-principal: #42403f;
     --cor-superficie: #1e1e1e;
-    --cor-card: #2b2530;
+    --cor-card: #322141;
 }
     body{
     background-color: rgb(242, 239, 245);
@@ -28,7 +28,7 @@
 
 header{
     background-color: rgb(172, 21, 41);
-    color: rgb(0, 0, 0);
+    color: #5a0000
     text-align: center;
     padding: 30px;
 }
@@ -38,7 +38,7 @@ h1{
 }
 
 h2{
-    color: rgb(255, 228, 196);
+    color: rgb(0, 0, 0);
 }
 
 p{
